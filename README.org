@@ -1,0 +1,10 @@
+* try
+
+Try is an extensible test framework with equal support for interactive and non-interactive workflows.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/melisgl/try.git   |
+| commit  | {"messa  |
+| systems | try |
+|---------+-------------------------------------------|
+
