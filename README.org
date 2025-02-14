@@ -4,6 +4,6 @@ Try is an extensible test framework with equal support for interactive and non-i
 
 |---------+----------------------------------------|
 | source  | git:https://github.com/melisgl/try.git |
-| commit  | 0aa80f4                                |
+| commit  | 9b2033d                                |
 | systems | try                                    |
 |---------+----------------------------------------|
